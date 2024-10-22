@@ -1,0 +1,15 @@
+---
+compact: true
+directory:
+  - .
+skip-path:
+  - bash-tools
+download-external-modules: true  
+framework:
+  - all
+no-guide: true
+output: cli
+quiet: true
+repo-id: superjarle/SQL-tools
+skip-suppressions: true
+soft-fail: true
